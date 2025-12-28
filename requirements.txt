@@ -1,0 +1,8 @@
+semua library packages yang kita gunakan
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+openpyxl
+jupyter
